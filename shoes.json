@@ -1,0 +1,26 @@
+[
+    {
+        "id": "9",
+        "name": "Shoes 1",
+        "price": 1,
+        "picture": "https://ecom-fake-api.onrender.com/shoes-1.webp"
+    },
+    {
+        "id": "10",
+        "name": "Shoes 2",
+        "price": 2,
+        "picture": "https://ecom-fake-api.onrender.com/shoes-2.webp"
+    },
+    {
+        "id": "11",
+        "name": "Shoes 3",
+        "price": 3,
+        "picture": "https://ecom-fake-api.onrender.com/shoes-3.webp"
+    },
+    {
+        "id": "12",
+        "name": "Shoes 4",
+        "price": 4,
+        "picture": "https://ecom-fake-api.onrender.com/shoes-4.webp"
+    }
+]

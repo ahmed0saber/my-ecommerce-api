@@ -1,14 +1,14 @@
 [
     {
-        "path": "category1.json",
-        "name": "Category 1"
+        "path": "t-shirts.json",
+        "name": "T-Shirts"
     },
     {
-        "path": "category2.json",
-        "name": "Category 2"
+        "path": "jackets.json",
+        "name": "Jackets"
     },
     {
-        "path": "category3.json",
-        "name": "Category 3"
+        "path": "shoes.json",
+        "name": "Shoes"
     }
 ]
