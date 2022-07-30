@@ -1,14 +1,14 @@
 [
     {
-        "path": "category1",
+        "path": "category1.json",
         "name": "Category 1"
     },
     {
-        "path": "category2",
+        "path": "category2.json",
         "name": "Category 2"
     },
     {
-        "path": "category3",
+        "path": "category3.json",
         "name": "Category 3"
     }
 ]
