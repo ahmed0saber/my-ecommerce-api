@@ -3,24 +3,24 @@
         "id": "5",
         "name": "Jacket 1",
         "price": 10,
-        "picture": "https://ecom-fake-api.onrender.com/jacket-1.webp"
+        "picture": "https://ecom-fake-api.onrender.com/images/jacket-1.webp"
     },
     {
         "id": "6",
         "name": "Jacket 2",
         "price": 20,
-        "picture": "https://ecom-fake-api.onrender.com/jacket-2.webp"
+        "picture": "https://ecom-fake-api.onrender.com/images/jacket-2.webp"
     },
     {
         "id": "7",
         "name": "Jacket 3",
         "price": 30,
-        "picture": "https://ecom-fake-api.onrender.com/jacket-3.webp"
+        "picture": "https://ecom-fake-api.onrender.com/images/jacket-3.webp"
     },
     {
         "id": "8",
         "name": "Jacket 4",
         "price": 40,
-        "picture": "https://ecom-fake-api.onrender.com/jacket-4.webp"
+        "picture": "https://ecom-fake-api.onrender.com/images/jacket-4.webp"
     }
 ]

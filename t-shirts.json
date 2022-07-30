@@ -3,24 +3,24 @@
         "id": "1",
         "name": "T-Shirt 1",
         "price": 100,
-        "picture": "https://ecom-fake-api.onrender.com/t-shirt-1.webp"
+        "picture": "https://ecom-fake-api.onrender.com/images/t-shirt-1.webp"
     },
     {
         "id": "2",
         "name": "T-Shirt 2",
         "price": 200,
-        "picture": "https://ecom-fake-api.onrender.com/t-shirt-2.webp"
+        "picture": "https://ecom-fake-api.onrender.com/images/t-shirt-2.webp"
     },
     {
         "id": "3",
         "name": "T-Shirt 3",
         "price": 300,
-        "picture": "https://ecom-fake-api.onrender.com/t-shirt-3.webp"
+        "picture": "https://ecom-fake-api.onrender.com/images/t-shirt-3.webp"
     },
     {
         "id": "4",
         "name": "T-Shirt 4",
         "price": 400,
-        "picture": "https://ecom-fake-api.onrender.com/t-shirt-4.webp"
+        "picture": "https://ecom-fake-api.onrender.com/images/t-shirt-4.webp"
     }
 ]
