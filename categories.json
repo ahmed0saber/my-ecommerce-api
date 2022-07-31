@@ -1,14 +1,14 @@
 [
     {
-        "path": "t-shirts.json",
+        "path": "t-shirts",
         "name": "T-Shirts"
     },
     {
-        "path": "jackets.json",
+        "path": "jackets",
         "name": "Jackets"
     },
     {
-        "path": "shoes.json",
+        "path": "shoes",
         "name": "Shoes"
     }
 ]
